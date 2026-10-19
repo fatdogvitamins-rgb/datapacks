@@ -1,0 +1,5 @@
+{
+    "minecraft-debugger.reloadOnSourceChanges.enabled": true,
+    "minecraft-debugger.showDiagnosticViewOnConnect": true,
+    "minecraft-debugger.reloadOnSourceChanges.globPattern": "//////////////////////////////////////////////////////////////////////////////////////////////////////////"
+}
